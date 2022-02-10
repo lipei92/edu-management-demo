@@ -3,6 +3,7 @@
     <h1>学习demo</h1>
     <!-- 根级路由出口 -->
     <router-view />
+    <div class="test">hhh</div>
   </div>
 </template>
 <script lang="ts">
@@ -21,4 +22,9 @@ export default Vue.extend({
   }
 })
 </script>
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+// @import "~@/styles/variables.scss";
+.test{
+  color: $danger-color;
+}
+</style>
