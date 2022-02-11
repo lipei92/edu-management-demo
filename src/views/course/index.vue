@@ -1,5 +1,5 @@
 <template>
-    <div>course页面</div>
+    <div>课程管理页面</div>
 </template>
 <script lang="ts">
 import Vue from 'vue'

@@ -1,5 +1,5 @@
 <template>
-    <div>resource页面</div>
+    <div>资源管理页面</div>
 </template>
 <script lang="ts">
 import Vue from 'vue'

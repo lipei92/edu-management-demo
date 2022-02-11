@@ -1,5 +1,5 @@
 <template>
-    <div>role页面</div>
+    <div>角色页面</div>
 </template>
 <script lang="ts">
 import Vue from 'vue'

@@ -1,5 +1,5 @@
 <template>
-    <div>用户页面</div>
+    <div>用户管理页面</div>
 </template>
 <script lang="ts">
 import Vue from 'vue'
